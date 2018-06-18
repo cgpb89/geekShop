@@ -1,3 +1,3 @@
-To initialize the site:
+To initialize the API:
 1 - Open the command promt and write; yarn install to download all the modules.
 2 - Then write yarn dev to initialize the API in por 3001.
